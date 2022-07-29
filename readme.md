@@ -16,11 +16,11 @@ It took me 5-6 hours to complete this project.( it was lengthy not difficult. )
 **Note :** This project is not optimized for mobile yet.
 
 
-**[Live Project's netlify link](https://hosting-landing-page-project-11.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://business-landing-page-project-12.netlify.app/ "Project link")**
 
 
 
-[![Project ScreenShot](./css%20project_12%20done.png)](https://hosting-landing-page-project-11.netlify.app/ "Project link")
+[![Project ScreenShot](./css%20project_12%20done.png)](https://business-landing-page-project-12.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__12-Business%20Landing%20Page-yellow)](https://hosting-landing-page-project-11.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__12-Business%20Landing%20Page-yellow)](https://business-landing-page-project-12.netlify.app/ "Project link")
